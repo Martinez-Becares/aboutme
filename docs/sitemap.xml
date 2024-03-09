@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://example.com/mysite/index.html</loc>
+    <lastmod>2024-03-09T19:42:31.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/mysite/about.html</loc>
+    <lastmod>2024-03-09T19:42:09.645Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/mysite/favourites.html</loc>
+    <lastmod>2024-03-09T19:40:51.101Z</lastmod>
+  </url>
+  <url>
+    <loc>https://example.com/mysite/resume.html</loc>
+    <lastmod>2024-03-09T19:02:17.534Z</lastmod>
+  </url>
+</urlset>

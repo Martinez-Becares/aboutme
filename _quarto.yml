@@ -1,18 +1,68 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
-  title: "Alberto Martinezx"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - favourites.qmd
+  favicon: download.jpeg
+  open-graph: false
+  
+  title: "PhD A. Martinez"
+  site-url: "https://example.com/mysite/"
+  
+  back-to-top-navigation: true
+  reader-mode: true
+  
+  repo-url: https://github.com/quarto-dev/quarto-demo
+  repo-actions: [edit, issue]
+  
+  page-footer: 
+    left: "Copyright 2024, A. Martinez" 
+    right: 
+      - icon: github
+        href: https://github.com/Martinez-Becares
+      - icon: linked
+
+  sidebar:
+    collapse-level: 1
+    background: primary
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://code.com
+          - text: Report a Bug
+            url:  https://bugs.com
+    style: "docked"
+    type: "dark"
+    search: false
+    title: "PhD A. Martinez"
+    border: false
+    
+    contents:
+    
+      - section: "About"
+        collapse: true
+        contents:
+          - about.qmd
+          
+      - text: "---"
+      - section: "Publications"
+        contents:
+          - index.qmd
+          
+      - text: "---"
+      - section: "Patents"
+        contents:
+          - favourites.qmd
+
+      - text: "---"
+      - section: "Resume"
+        contents:
+          - resume.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 

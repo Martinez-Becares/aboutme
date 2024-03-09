@@ -4,13 +4,69 @@
     "href": "index.html",
     "title": "Data Scientist",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
+    "text": "Alberto Martinez is a Group Scientist at Procter and Gamble focused on data driven product and process design.It is an strong passionate of using data to solve business problems. When is not trying to solve a new industrial challenge he is running around Brussels forests or enjoying time with his 3 kids."
+  },
+  {
+    "objectID": "favourites.html",
+    "href": "favourites.html",
+    "title": "Intellectual Property",
+    "section": "",
+    "text": "##Colors\nBlue\nRed\nOrange\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nSalamanca University | Spain PhD in Chemical and Environmental Engineering| 2000 - 2005\nChemical Engineering | Salamanca University | 1994 - 1999"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nProcter & Gamble (UK and Belgium) 2008 - present"
+  },
+  {
+    "objectID": "about.html#geoscynce-chief-analyst-spet-2012---april-2018",
+    "href": "about.html#geoscynce-chief-analyst-spet-2012---april-2018",
+    "title": "About",
+    "section": "GeoScynce | Chief Analyst | Spet 2012 - April 2018",
+    "text": "GeoScynce | Chief Analyst | Spet 2012 - April 2018\nAbout this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#title-block-banner-true",
+    "href": "index.html#title-block-banner-true",
+    "title": "PhD A. Martinez",
+    "section": "title-block-banner: true",
+    "text": "title-block-banner: true\nThis is a Quarto website.\nHere in the index you write\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#section",
+    "href": "about.html#section",
+    "title": "About",
+    "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "You can see my resume in Linkedin\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html#title-index-of-my-webpage",
+    "href": "index.html#title-index-of-my-webpage",
+    "title": "PhD A. Martinez",
+    "section": "title: “Index of my webpage”",
+    "text": "title: “Index of my webpage”\nThis is a Quarto website.\nHere in the index you write\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
