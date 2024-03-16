@@ -1,11 +1,20 @@
 ---
-title: "Data Scientist"
+title: "Alberto Martinez"
+image: images/download.jpeg
+about:
+  template: jolla
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/deepshamenghani
+    - icon: github
+      text: Github
+      href: https://github.com/deepshamenghani/
+    - icon: envelope
+      text: Contact me
+      href: mailto:alberto17576@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Fast learner scientist with 15 years of experience translating consumer needs into irresistible products using great experiments, data, models and AI.

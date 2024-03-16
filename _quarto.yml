@@ -3,68 +3,66 @@ project:
   output-dir: docs
   
 website:
-  favicon: download.jpeg
-  open-graph: false
-  
+
   title: "PhD A. Martinez"
-  site-url: "https://example.com/mysite/"
-  
-  back-to-top-navigation: true
-  reader-mode: true
-  
-  repo-url: https://github.com/quarto-dev/quarto-demo
-  repo-actions: [edit, issue]
-  
-  page-footer: 
-    left: "Copyright 2024, A. Martinez" 
-    right: 
-      - icon: github
-        href: https://github.com/Martinez-Becares
-      - icon: linked
+  favicon: images/atom2.png
 
-  sidebar:
-    collapse-level: 1
-    background: primary
-    tools:
+  page-footer:
+    center: |
+      <span class="container"><strong>[Contact Alberto Martinez](mailto:alberto17576@gmail.com){target="_blank"}</strong></span>
+    right: |
+      <span class="container"><strong>[Github Repo](https://github.com/deepshamenghani/Portfolio_DeepshaM){target="_blank"}</strong></span>
+    background: "#004E4F"
+    
+  navbar:
+    
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+      - href: resume.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Publications
+      - href: resume.qmd
+        text: Patents
+      # - href: workshops.qmd
+      #   text: Workshops
+      # - href: blogs.qmd
+      #   text: Blogs
+        
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/deepshamenghani
+        aria-label: Quarto LinkedIn
       - icon: github
-        menu:
-          - text: Source Code
-            url:  https://code.com
-          - text: Report a Bug
-            url:  https://bugs.com
-    style: "docked"
-    type: "dark"
-    search: false
-    title: "PhD A. Martinez"
-    border: false
-    
-    contents:
-    
-      - section: "About"
-        collapse: true
-        contents:
-          - about.qmd
-          
-      - text: "---"
-      - section: "Publications"
-        contents:
-          - index.qmd
-          
-      - text: "---"
-      - section: "Patents"
-        contents:
-          - favourites.qmd
-
-      - text: "---"
-      - section: "Resume"
-        contents:
-          - resume.qmd
+        href: https://github.com/deepshamenghani/
+        aria-label: Quarto Github
+        
+  search: 
+    location: navbar
+    type: overlay
 
 format:
   html:
-    theme: sandstone
+    grid: 
+      body-width: 2000px
+      sidebar-width: 200px
+      margin-width: 200px
+    theme:
+      light: [cosmo, theme_light_custom.scss]
+      dark: [cosmo, theme_dark_custom.scss]
     css: styles.css
-    toc: true
+    citations-hover: true
+    code-link: true
+    code-fold: show
+    code-tools: false
+    code-block-border-left: "#004E4F"
+    
 
+    
 editor: visual
 

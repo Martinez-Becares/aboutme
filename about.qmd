@@ -2,23 +2,17 @@
 title: "About"
 about:
   template: solana
-  image: download.jpeg
+  image: images/download.jpeg
   image-width: 20em
   image-shape: round
   
-  links:
-    - icon: linkedin
-      text: linkedin
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
-    - icon: orcid
-      text: ORCID
-      href: https://github.com
+  #links:
+    # - icon: linkedin
+     # text: linkedin
+      # href: https://twitter.com
 ---
 
-Alberto Martinez is a Group Scientist at Procter and Gamble focused on data driven product and process design.It is an strong passionate of using data to solve business problems. When is not trying to solve a new industrial challenge he is running around Brussels forests or enjoying time with his 3 kids.
+Alberto Martinez is a Group Scientist at Procter and Gamble focused on data driven product and process design. It is an strong passionate of using data to solve business problems. When is not trying to solve a new industrial challenge he is running around Brussels forests or enjoying time with his 3 kids and wife.
 
 ## Education
 
@@ -31,9 +25,3 @@ Chemical Engineering \| Salamanca University \| 1994 - 1999
 Procter & Gamble (UK and Belgium) 2008 - present
 
 ## 
-
-About this site
-
-```{r}
-1 + 1
-```
