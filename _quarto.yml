@@ -11,7 +11,7 @@ website:
     center: |
       <span class="container"><strong>[Contact Alberto Martinez](mailto:alberto17576@gmail.com){target="_blank"}</strong></span>
     right: |
-      <span class="container"><strong>[Github Repo](https://github.com/deepshamenghani/Portfolio_DeepshaM){target="_blank"}</strong></span>
+      <span class="container"><strong>[Github Repo](https://github.com/Martinez-Becares/){target="_blank"}</strong></span>
     background: "#004E4F"
     
   navbar:
@@ -23,11 +23,11 @@ website:
         text: About
       - href: resume.qmd
         text: Resume
-      - href: resume.qmd
+      - href: projects.qmd
         text: Projects
-      - href: resume.qmd
+      - href: publications.qmd
         text: Publications
-      - href: resume.qmd
+      - href: patents.qmd
         text: Patents
       # - href: workshops.qmd
       #   text: Workshops
@@ -36,10 +36,10 @@ website:
         
     right:
       - icon: linkedin
-        href: https://linkedin.com/in/deepshamenghani
+        href: "https://www.linkedin.com/in/alberto-martinez-becares-556005134?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRWH0n3JXQzGgEGFWlljcbw%3D%3D"
         aria-label: Quarto LinkedIn
       - icon: github
-        href: https://github.com/deepshamenghani/
+        href: https://github.com/Martinez-Becares/
         aria-label: Quarto Github
         
   search: 

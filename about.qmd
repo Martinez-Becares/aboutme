@@ -2,8 +2,8 @@
 title: "About"
 about:
   template: solana
-  image: images/download.jpeg
-  image-width: 20em
+  image: images/alberto_sev_2.png
+  image-width: 18em
   image-shape: round
   
   #links:
