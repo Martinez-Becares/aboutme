@@ -4,10 +4,8 @@ project:
   
 website:
 
-  cookie-consent:
-    type: express
-    style: headline
-    palette: dark
+  cookie-consent: false
+  
   google-analytics:
     tracking-id: "G-3HL8S4TS1B"
     anonymize-ip: true
