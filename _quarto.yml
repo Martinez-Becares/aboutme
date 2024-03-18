@@ -4,6 +4,14 @@ project:
   
 website:
 
+  cookie-consent:
+    type: express
+    style: headline
+    palette: dark
+  google-analytics:
+    tracking-id: "G-3HL8S4TS1B"
+    anonymize-ip: true
+  
   title: "PhD A. Martinez"
   favicon: images/atom2.png
 
