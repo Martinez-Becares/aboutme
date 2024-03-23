@@ -60,7 +60,7 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "You can see my resume in Linkedin"
+    "text": "Note\n\n\n\nYou can see my resume in Linkedin"
   },
   {
     "objectID": "index.html#title-index-of-my-webpage",
@@ -81,7 +81,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Coming soon.\nYou can see a summary here:\n&lt;https://orcid.org/0000-0001-9735-6588&gt;"
+    "text": "Note\n\n\n\nComing soon.\nYou can see a summary here:\n&lt;https://orcid.org/0000-0001-9735-6588&gt;\n\n\n\nBooksPapers\n\n\nComming Soon\n\n\nComming Soon"
   },
   {
     "objectID": "patents.html",
@@ -89,5 +89,12 @@
     "title": "Patents",
     "section": "",
     "text": "Coming soon.\nYou can see a summary here:\n&lt;https://orcid.org/0000-0001-9735-6588&gt;"
+  },
+  {
+    "objectID": "publications.html#papers",
+    "href": "publications.html#papers",
+    "title": "Publications",
+    "section": "Papers",
+    "text": "Papers\nHola :::"
   }
 ]

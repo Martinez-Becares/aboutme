@@ -2,4 +2,18 @@
 title: "Resume"
 ---
 
+::: callout-note
+
 You can see my resume in Linkedin
+
+:::
+
+```{=html}
+   
+   <iframe 
+   width ="800"
+   height = "800"
+   src="images/Resume-Alberto-Martinez-Feb24.pdf"
+   ></iframe>
+
+```

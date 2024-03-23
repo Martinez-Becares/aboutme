@@ -2,8 +2,22 @@
 title: "Publications"
 ---
 
+::: callout-note
+
 Coming soon.
 
 You can see a summary here:
 
 \<<https://orcid.org/0000-0001-9735-6588>\>
+
+:::
+::: {.panel-tabset style="color:gray"}
+
+## Books
+
+Comming Soon
+
+## Papers
+
+Comming Soon
+:::
